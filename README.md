@@ -1,2 +1,2 @@
-# Hefftor Calamares configuration
+# ArcoVicck Calamares configuration
 
